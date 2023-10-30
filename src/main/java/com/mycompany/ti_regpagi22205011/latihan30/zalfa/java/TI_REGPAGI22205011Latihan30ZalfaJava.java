@@ -7,6 +7,10 @@ import java.util.Scanner;
 /**
  *
  * @author User
+ Nama : Zalfa Rosiyah Riski
+ Nim : 22205011
+ Prodi : Teknik Informatika 
+ Deskripsi : membuat program sesuai ketentuan
  */
 public class TI_REGPAGI22205011Latihan30ZalfaJava {
 
